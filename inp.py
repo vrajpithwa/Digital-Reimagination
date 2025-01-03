@@ -1,3 +1,7 @@
+#Author - Vraj Pithwa
+
+
+
 import torch
 from diffusers import StableDiffusionInpaintPipeline
 import tkinter as tk
@@ -501,3 +505,7 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = GenerativeInpaintingApp(root)
     root.mainloop()
+
+
+
+#Author - Vraj Pithwa
